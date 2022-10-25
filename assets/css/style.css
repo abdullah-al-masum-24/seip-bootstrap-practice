@@ -1,0 +1,89 @@
+.h-carousel {
+    height: 700px; }
+
+.nav-active {
+    background-color: #FF4800; }
+
+.nav-text-color {
+    transition: 1s; }
+
+.nav-text-color:hover {
+    background-color: #FF4800;
+    color: white; }
+
+.nav-logo {
+    color: #FF4800;
+    letter-spacing: 2px;
+    font-weight: 800 !important }
+
+.quote {
+    background-color: #FF4800;
+    transition: 1s; }
+
+.quote:hover {
+    background-color: #D93D00; }
+
+.top-40 {
+    top: 30%; }
+
+.bg-comon {
+    background-color: #FF4800; }
+
+.text-comon {
+    color: #FF4800; }
+
+.card-quote-icon {
+    top: -31px;
+    font-size: 63px;
+    left: 292px; }
+
+.testimonial-card-img {
+    height: 45px;
+    margin-top: -46px; }
+
+.owl-item {
+    opacity: .2; }
+
+.owl-item.center{
+    opacity: 1; }
+
+.owl-theme
+.owl-dots
+.owl-dot
+.active span {
+    background-color: #FF4800 !important; }
+
+.blog-circle {
+    height: 52px;
+    width: 10%;
+    top: -45px;
+    left: 454px; }
+
+.blog-s-1 {
+    left: 16px; }
+
+.blog-s-2 {
+    top: 19px;
+    left: 10px; }
+
+.blog-user {
+    height: 40px;
+    width: 7%;
+    margin-top: -7px; }
+
+.hero-height {
+    height: 500px; }
+
+.hero-bg-img {
+    background: url("../img/project-img/header.jpg"), no-repeat, center;
+    background-size: cover; }
+
+.bg-quote-req {
+    background-color: #F2F2F4; }
+
+.footer-bg {
+    background-color: #1F1F2E; }
+
+.dropdown:hover
+.dropdown-menu {
+    display: block; }
